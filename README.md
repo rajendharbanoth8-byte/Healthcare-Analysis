@@ -137,7 +137,7 @@ Created key measures such as:
 
 ## How to Run
  ### Clone Repository:
-git clone <><br>
+git clone <https://github.com/rajendharbanoth8-byte/Healthcare-Analysis.git><br>
 ### 1. Open Power BI File
 
 * Load the `.pbix` file in Power BI Desktop
