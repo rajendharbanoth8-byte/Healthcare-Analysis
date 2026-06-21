@@ -165,9 +165,11 @@ git clone <https://github.com/rajendharbanoth8-byte/Healthcare-Analysis.git><br>
 ---
 
 ## Dataset and Dashboard
-###1. Dataset <a href=""
+###1. Dataset <a href="https://github.com/rajendharbanoth8-byte/Healthcare-Analysis/blob/main/hospital%20data.xlsx">Data-set</a>
 ### 2.Dashboard
+[power Bi file (.pbix) of the project.](https://github.com/rajendharbanoth8-byte/Healthcare-Analysis/blob/main/healthcare_project.pbix)<br>
 ### 3. Dashboard Image
+![Dashboard Screenshot](https://github.com/rajendharbanoth8-byte/Healthcare-Analysis/blob/main/healthcaer%20image.jpg)
 
 ## Repository Structure
 
